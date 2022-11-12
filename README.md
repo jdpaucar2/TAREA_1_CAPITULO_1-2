@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/201478900-f1ed5a2c-811e-4768-a5c5-eb23fedebd7d.png)
 
-![image](https://user-images.githubusercontent.com/116772918/201478998-4195d630-9ccf-467d-a8c4-d6fa5e49b855.png)
+![image](https://user-images.githubusercontent.com/116772918/201482165-b5caed4c-8ca2-49ec-8fc9-9b95dee56bbb.png)
 
 ![image](https://user-images.githubusercontent.com/116772918/201479812-a9088249-caeb-4068-889a-9851ea1a74ea.png)
 
