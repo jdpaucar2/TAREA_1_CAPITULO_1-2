@@ -39,6 +39,13 @@
 
 ![image](https://user-images.githubusercontent.com/93800511/141023005-2f63a583-d902-4f1c-92db-44a79fde1957.png)
 
+![image](https://user-images.githubusercontent.com/93800511/141030029-4e4ba6fa-796a-470c-8d6f-25d8497c8eb7.png)
+
+![image](https://user-images.githubusercontent.com/93835533/141425072-7dc36e4c-f60d-4ac8-83f6-179f3d789d18.png)
+
+![image](https://user-images.githubusercontent.com/93835533/141409419-a4849d0d-b6c9-4086-a968-3df3ddcec0e0.png)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
@@ -216,7 +223,74 @@ Este tipo de fuentes permiten tener un control exacto de la energia suministrada
 
 //Amarillo/Violeta/Negro/Cafe/Cafe// (4700 Ohm)
 
-...........
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
+
+![image](https://user-images.githubusercontent.com/116772918/201795420-2d56c5b5-fe29-4b7f-83a4-c4b62fd349fe.png)
+
+
+33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
+
+![image](https://user-images.githubusercontent.com/116772918/201795456-f0e88b3b-7f36-47f3-bbb0-f32e021b25e3.png)
+
+35.Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1
+
+![image](https://user-images.githubusercontent.com/116772918/201795515-9b78c65f-2195-4064-a592-7db646898e96.png)
+
+
+37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+
+* Medir corriente: se coloca el amperímetro en el circuito eléctrico tal que sus punto de polaridad creen una conexión en serie (uno despues del otro) y sus signos de polaridad coincidan con los de la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/116772918/201795645-5dd390b7-feb4-4f6d-b9fb-afd1d37f4927.png)
+
+* Medir voltaje: se colocan los cables del voltímetro en el circuito elétrico tal que estos creen una conexión en paralelo y sus signos de polaridad coincidan con los de la fuente de voltaje.
+
+
+![image](https://user-images.githubusercontent.com/116772918/201795716-86a812b1-6f24-4cdd-906a-24bdeb9441b9.png)
+
+39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/116772918/201795792-fac9e293-f3cb-4211-87f5-4a66578b5382.png)
+
+* Posición 1:
+
+V1 = 0 debido a que no pasa corriente.
+
+V2 = Vs debido a que la fuente de voltaje permite el paso de corriente.
+
+* Posición 2:
+
+V1 = Vs debido a que la fuente de voltaje permite el paso de corriente.
+
+V2 = 0 debido a que no pasa corriente.
+
+41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
+
+![image](https://user-images.githubusercontent.com/116772918/201795909-43f2e530-e1d8-4c71-b4af-d4c076712aec.png)
+
+![image](https://user-images.githubusercontent.com/116772918/201795941-0edd5038-4264-40e6-8a00-5d0f7ee7e30d.png)
+
+43¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+![image](https://user-images.githubusercontent.com/116772918/201796007-a6f39815-4d52-4f92-a76b-f034ff8ce909.png)
+
+1.5 Volts de Corriente Directa (CD)
+
+45.Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
+* (a) manecilla en 2, ajuste de intervalo en X10
+* (b) manecilla en 15, ajuste de intervalo en X100,000
+* (c) manecilla en 45, ajuste de intervalo en X100
+
+47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+
+
+![image](https://user-images.githubusercontent.com/116772918/201796149-079240cd-e0fa-402c-bed7-095c371acf1c.png)
+
+* (a) /Verde/= I1 /Se coloca el lado positivo del multimetro en el lado positivo de la fuente, se seapara una parte del circuito posterior al punto deonde se va a medir la intensidad y se mide con la configuracion en amperios (DC) de mas alto rango.
+* (b)/Azul/= R1 /Se Apaga el circuito y se coloca el lado positivo y negativo del multimetro a la par de los lados positivos y negativos de la resistencia a medir y se coloca la configuracion en ohmnios (DC) con escala segun la clave de color del resistor.
+* (c)/Amarillo/= V /Se Colocan lados positivos y negativos del multimetro acorde a positivos y negatios de la fuente y se coloca la configuracion en voltios (DC) a maximo rango.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO **
