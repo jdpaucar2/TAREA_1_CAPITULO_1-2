@@ -24,7 +24,7 @@
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Analizar los contenidos relacionados a la notación cintífica para la ingenieria y a los valores significativos expuestos en las prácticas teóricas de la primera unidad.
+* Analizar los contenidos relacionados a la notación científica para la ingenieria y a los valores significativos expuestos en las prácticas teóricas de la primera unidad.
 * Desarrollar los ejercicios propuestos del capitulo 1 y 2 que trata de  corrientes y resistencias dentro de circuitos simples bajo el uso teórico de un multimetro para medidas.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
@@ -72,7 +72,7 @@
 
 9. Sume los números siguientes:
 
-![image](https://user-images.githubusercontent.com/116772918/201482692-eee1f858-d4b1-47a1-b8c3-08ec8bf6afb6.png)
+![image](https://user-images.githubusercontent.com/116772918/201823563-6552951a-7bdb-4aff-84ce-eb3c13236db2.png)
 
 
 11.Realice las siguientes multiplicaciones:
