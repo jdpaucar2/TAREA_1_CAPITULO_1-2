@@ -221,7 +221,10 @@ Este tipo de fuentes permiten tener un control exacto de la energia suministrada
 
 29.¿Cuál es la resistencia indicada por 4K7?
 
-//Amarillo/Violeta/Negro/Cafe/Cafe// (4700 Ohm)
+//Amarillo/Violeta/rojo// (4700 Ohm)
+
+![image](https://user-images.githubusercontent.com/116772918/201826050-ddef5e1b-d5c2-46c5-abf2-8ceadb6074e5.png)
+
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
 
