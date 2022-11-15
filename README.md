@@ -318,4 +318,4 @@ Respecto a los conceptos relacionados a la electrónica fundamental tales como e
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. 
 
-https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
+http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
